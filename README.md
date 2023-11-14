@@ -14,7 +14,7 @@ The Daily Bugle Article
 ![image](https://github.com/kylehraja/SpiderManArticle/assets/140476247/cc207f28-f618-4ef5-99ee-475227957b88)
 
 Heading
-![image](https://github.com/kylehraja/SpiderManArticle/assets/140476247/5c207fdc-fa52-40c8-86f8-e48d814e3efd)
+![image](https://github.com/kylehraja/SpiderManArticle/assets/140476247/172583c9-7d2a-4a7f-bc31-10aefc48441b)
 
 Sections
 ![image](https://github.com/kylehraja/SpiderManArticle/assets/140476247/cb4bb7c8-f89d-4086-83d0-5cdefc1923b9)
