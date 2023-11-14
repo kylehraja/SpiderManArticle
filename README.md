@@ -28,4 +28,9 @@ Media Queries to handle multiple devices
 ![image](https://github.com/kylehraja/SpiderManArticle/assets/140476247/da4748f9-22ab-4d11-95c0-c6dd41a29528)
 
 
+How to run webpage:
 
+Download and unzip the SpiderManArticle.zip file.
+Open in vscode.
+Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+Open the index.html and run the code (Windows shortcut key: ALT+L+O).
